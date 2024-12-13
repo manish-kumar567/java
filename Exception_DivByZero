@@ -5,7 +5,7 @@ class DivByZeroException extends Exception{
                 super(message);
         }
 }
-public class K146_Exception {
+public class Exception_DivByZero{
 
         public static void main(String[] args) {
                 System.out.println("Exception");
