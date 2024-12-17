@@ -1,0 +1,4 @@
+
+class MyPackage2 {
+    
+}
